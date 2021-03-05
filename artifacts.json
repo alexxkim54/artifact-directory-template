@@ -1,7 +1,7 @@
 {
     "this-repository": "https://github.com/alexxkim54/artifact-directory-template.git",
     "project-repository": "https://github.com/alexxkim54/project-templates.git",
-    "dockerhub-repository": "jul290/aesthetic_makeup_rec",
+    "dockerhub-repository": "jul290/aesthetic_makeup_rec:latest",
     "project-website-url": "https://makeup-recommender.herokuapp.com/",
     "project-website-code": "https://github.com/alexxkim54/AMR_Website.git"
 }
