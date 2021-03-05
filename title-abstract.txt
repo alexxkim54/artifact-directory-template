@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Makeup Recommender
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Although product recommenders are conventional in the world of machine learning based recommender systems, cosmetics are an overlooked field. By providing a complete set of cosmetic recommendations, we can reduce the time and effort required for users to find the best products for a user’s personalized needs. Our goal is to create a recommender that will provide a one-stop shop experience where a user will get recommended an array of products to create an entire makeup look based on similar products that the user enjoys, products that similar users have purchased, as well as products that are personalized to the user including skin type, skin tone, ingredient preferences, and budget. The website recommends a complete makeup set personalized to the user. The user inputs their skin type, skin tone, budget, and any ingredient preferences so that we can suggest the best products for their personalized needs. The user also inputs a product of their choice from one of the four categories to aid with further personalization. Using this preference and knowledge about the user, we will suggest a complete set of products to complete a look. Our recommender provides four categories of products: face, cheeks, eyes, and lips. Our project aims to utilize collaborative filtering recommendations along with content-based recommendations to ensure user satisfaction and success when creating their desired look.
